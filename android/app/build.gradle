@@ -138,6 +138,9 @@ android {
 }
 
 dependencies {
+    implementation project(':appcenter-crashes')
+    implementation project(':appcenter-analytics')
+    implementation project(':appcenter')
     implementation project(':@react-native-community_cameraroll')
     implementation project(':react-native-view-shot')
     implementation project(':react-native-gesture-handler')

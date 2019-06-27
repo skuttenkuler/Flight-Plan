@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "@react-native-community/cameraroll": "^1.1.1",
+    "appcenter": "2.1.0",
+    "appcenter-analytics": "2.1.0",
+    "appcenter-crashes": "2.1.0",
     "moment": "^2.24.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
