@@ -259,6 +259,8 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="adjustable_description" translatable="false">Adjustable</string>
+    <string moduleConfig="true" name="appCenterAnalytics_whenToEnableAnalytics" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="appCenterCrashes_whenToSendCrashes" translatable="false">ALWAYS_SEND</string>
     <string name="app_name">Flight Plan</string>
     <string name="catalyst_copy_button" project="catalyst" translatable="false">Copy\n</string>
     <string name="catalyst_debugjs" project="catalyst" translatable="false">Debug JS Remotely</string>

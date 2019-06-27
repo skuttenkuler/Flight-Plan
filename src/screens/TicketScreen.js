@@ -6,7 +6,7 @@ import { Text,
 import ViewShot from "react-native-view-shot";
 import tixImage from '../images/stub.png';
 import moment from 'moment';
-import CameraRoll from "@react-native-community/cameraroll";
+//import CameraRoll from "@react-native-community/cameraroll";
 
 
 const { width: WIDTH } = Dimensions.get('window')
@@ -20,10 +20,10 @@ export default class TicketScreen extends React.Component{
     };
     componentDidMount () {
         this.refs.viewShot.capture().then(uri => {
-          console.log("do something with ", uri);
+            console.log("something happened")
+            CameraRoll.saveToCameraRoll(viewShot, ['photo']);
 
         });
-        CameraRoll.saveToCameraRoll(viewShot, ['photo']);
       }
 
     constructor(props) {
@@ -37,7 +37,7 @@ export default class TicketScreen extends React.Component{
             MonthSelected:props.navigation.state.params.MonthSelected,
             DaySelected:props.navigation.state.params.DaySelected,
             FlightTime:props.navigation.state.params.FlightTime,
-            imageURI : '../images/screenshot.jpg',
+            imageURI : 'file:///sdcard/screenshot.jpg',
 
         }
     }

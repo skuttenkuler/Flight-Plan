@@ -5,11 +5,18 @@ INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/Flight
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:appcenter-crashes] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-crashes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-analytics] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:@react-native-community_cameraroll] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-view-shot] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-2.1.0.aar/0e819cc39cf2bc23b7c3e9d3f1b78891/AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-2.1.0.aar/aa25ec095ec6e3028845e3e65d3d69d7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-2.1.0.aar/a986c477928a2e59a52e9890171c7565/AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:6:1-18:12
 MERGED from [com.android.support:support-v4:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cd6b9c77dd2ac755a678ba301ad8d54b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c7a454e93a48506fe5a2ab4ab395d274/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bb5dff070f1b30997376b20f755761f5/AndroidManifest.xml:17:1-22:12
@@ -66,6 +73,8 @@ INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/Flight
 		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:15:5-67
+MERGED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -138,6 +147,12 @@ uses-sdk
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+MERGED from [:appcenter-crashes] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-crashes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-crashes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:@react-native-community_cameraroll] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_cameraroll] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-view-shot] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -148,6 +163,14 @@ MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.grad
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter:appcenter-crashes:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-2.1.0.aar/0e819cc39cf2bc23b7c3e9d3f1b78891/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-2.1.0.aar/0e819cc39cf2bc23b7c3e9d3f1b78891/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-2.1.0.aar/aa25ec095ec6e3028845e3e65d3d69d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-2.1.0.aar/aa25ec095ec6e3028845e3e65d3d69d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-2.1.0.aar/a986c477928a2e59a52e9890171c7565/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-2.1.0.aar/a986c477928a2e59a52e9890171c7565/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:11:5-13:41
 MERGED from [com.android.support:support-v4:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cd6b9c77dd2ac755a678ba301ad8d54b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cd6b9c77dd2ac755a678ba301ad8d54b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c7a454e93a48506fe5a2ab4ab395d274/AndroidManifest.xml:20:5-44
@@ -228,3 +251,7 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:2.1.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcenter-2.1.0.aar/03fa8123ffe2faa8a57e6da004d161da/AndroidManifest.xml:16:22-76
