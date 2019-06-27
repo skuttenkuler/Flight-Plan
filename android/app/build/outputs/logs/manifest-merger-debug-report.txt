@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_cameraroll] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-view-shot] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cd6b9c77dd2ac755a678ba301ad8d54b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c7a454e93a48506fe5a2ab4ab395d274/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bb5dff070f1b30997376b20f755761f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/29a77950466681db1f62258cde7fb008/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3942d094b5808c786e90861718cfe3bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a8d642eb6f2a6e1f5158ebf5ecd76e99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/62e6cccb714d947a57c11c91ee227b06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a107f89fbed8fee66bd5bc81774d74ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fd015d2cec75568924cdde1a4f73d58a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b600995d7ced7d1ad28eaa3b49102b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/082626c2a32d63970a77bbb4506e08cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8dd3babf146f71ffaaec9f82abf0206a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c04627ff5333d4a65d8346c1af29c570/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a5c4b3ad95a15318666a8520b22cf1cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/72724111f21cdde9c4270b8465cfbe1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4542e939c8efb9865bdcc8163d2c4a29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d7f266ba04a6944b7870ecf908219db1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/14b06207f656312d9e33d8c895057ded/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4cabdd4f33fd8cd4fc43b024a73d9c24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/04cf6ecedaaa0137ce7ec720838cbc83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/131c1e9772c659f6b7120339cae5310b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2ee983a07fd2eb2e846639a892b6b374/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fed4341cdf22d4fd1d9867989f9f1a08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f36b72f7c4a651cba9c86ab87a6676da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/25a242c91426535e7570a9d5c3ba470f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5db89d825906e0ef82afc21ecbc3164c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f453918f83ad447276f5c1669fe1e202/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/be1eeeba17bc80b5f3d90c1a44e0eeb2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/679a996e8101e53f1fe79317331ff1d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aaab114113af4b4ecf8a07341c912be1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cff559e6a782797bc7e3c615299828c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/6e457c8215e10519b8080c5dc851c020/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/94c830ad390fe2824ac18f310181f5f5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/aeef5a62b037f257c219fc67c86d01a8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4542e939c8efb9865bdcc8163d2c4a29/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4542e939c8efb9865bdcc8163d2c4a29/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d7f266ba04a6944b7870ecf908219db1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d7f266ba04a6944b7870ecf908219db1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/94c830ad390fe2824ac18f310181f5f5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/94c830ad390fe2824ac18f310181f5f5/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4542e939c8efb9865bdcc8163d2c4a29/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.flightplan.MainActivity
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_cameraroll] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_cameraroll] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-view-shot] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cd6b9c77dd2ac755a678ba301ad8d54b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cd6b9c77dd2ac755a678ba301ad8d54b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c7a454e93a48506fe5a2ab4ab395d274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c7a454e93a48506fe5a2ab4ab395d274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bb5dff070f1b30997376b20f755761f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bb5dff070f1b30997376b20f755761f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/29a77950466681db1f62258cde7fb008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/29a77950466681db1f62258cde7fb008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3942d094b5808c786e90861718cfe3bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3942d094b5808c786e90861718cfe3bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a8d642eb6f2a6e1f5158ebf5ecd76e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a8d642eb6f2a6e1f5158ebf5ecd76e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/62e6cccb714d947a57c11c91ee227b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/62e6cccb714d947a57c11c91ee227b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a107f89fbed8fee66bd5bc81774d74ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a107f89fbed8fee66bd5bc81774d74ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fd015d2cec75568924cdde1a4f73d58a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fd015d2cec75568924cdde1a4f73d58a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b600995d7ced7d1ad28eaa3b49102b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b600995d7ced7d1ad28eaa3b49102b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/082626c2a32d63970a77bbb4506e08cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/082626c2a32d63970a77bbb4506e08cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8dd3babf146f71ffaaec9f82abf0206a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8dd3babf146f71ffaaec9f82abf0206a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c04627ff5333d4a65d8346c1af29c570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c04627ff5333d4a65d8346c1af29c570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a5c4b3ad95a15318666a8520b22cf1cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a5c4b3ad95a15318666a8520b22cf1cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/72724111f21cdde9c4270b8465cfbe1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/72724111f21cdde9c4270b8465cfbe1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4542e939c8efb9865bdcc8163d2c4a29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4542e939c8efb9865bdcc8163d2c4a29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d7f266ba04a6944b7870ecf908219db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d7f266ba04a6944b7870ecf908219db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/14b06207f656312d9e33d8c895057ded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/14b06207f656312d9e33d8c895057ded/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4cabdd4f33fd8cd4fc43b024a73d9c24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4cabdd4f33fd8cd4fc43b024a73d9c24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/04cf6ecedaaa0137ce7ec720838cbc83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/04cf6ecedaaa0137ce7ec720838cbc83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/131c1e9772c659f6b7120339cae5310b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/131c1e9772c659f6b7120339cae5310b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2ee983a07fd2eb2e846639a892b6b374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2ee983a07fd2eb2e846639a892b6b374/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fed4341cdf22d4fd1d9867989f9f1a08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fed4341cdf22d4fd1d9867989f9f1a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f36b72f7c4a651cba9c86ab87a6676da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f36b72f7c4a651cba9c86ab87a6676da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/25a242c91426535e7570a9d5c3ba470f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/25a242c91426535e7570a9d5c3ba470f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5db89d825906e0ef82afc21ecbc3164c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5db89d825906e0ef82afc21ecbc3164c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f453918f83ad447276f5c1669fe1e202/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f453918f83ad447276f5c1669fe1e202/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/be1eeeba17bc80b5f3d90c1a44e0eeb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/be1eeeba17bc80b5f3d90c1a44e0eeb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/679a996e8101e53f1fe79317331ff1d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/679a996e8101e53f1fe79317331ff1d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aaab114113af4b4ecf8a07341c912be1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aaab114113af4b4ecf8a07341c912be1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cff559e6a782797bc7e3c615299828c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cff559e6a782797bc7e3c615299828c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/6e457c8215e10519b8080c5dc851c020/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/6e457c8215e10519b8080c5dc851c020/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/94c830ad390fe2824ac18f310181f5f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/94c830ad390fe2824ac18f310181f5f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/aeef5a62b037f257c219fc67c86d01a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/aeef5a62b037f257c219fc67c86d01a8/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/debug/AndroidManifest.xml:5:22-75

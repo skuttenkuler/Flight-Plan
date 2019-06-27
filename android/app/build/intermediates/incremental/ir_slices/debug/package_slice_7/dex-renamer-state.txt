@@ -1,0 +1,4 @@
+#Wed Jun 26 15:37:34 PDT 2019
+base.0=/Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
