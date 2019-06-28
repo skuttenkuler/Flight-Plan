@@ -1,12 +1,12 @@
 import React from 'react';
 import { Text,
          View, ImageBackground,
-         TouchableOpacity, Dimensions, Button, StyleSheet
+         TouchableOpacity, CameraRoll, Dimensions, Button, StyleSheet
 } from 'react-native';
 import ViewShot from "react-native-view-shot";
 import tixImage from '../images/stub.png';
 import moment from 'moment';
-//import CameraRoll from "@react-native-community/cameraroll";
+
 
 
 const { width: WIDTH } = Dimensions.get('window')
@@ -16,7 +16,12 @@ export default class TicketScreen extends React.Component{
 
     static navigationOptions = {
         title: 'Ticket',
+        header: null,
 
+    };
+    static saveToCameraRoll = {
+        tag: "file:///sdcard/screenshot.jpg",
+        type: 'photo'
     };
     componentDidMount () {
         this.refs.viewShot.capture().then(uri => {
@@ -39,6 +44,7 @@ export default class TicketScreen extends React.Component{
             FlightTime:props.navigation.state.params.FlightTime,
             imageURI : 'file:///sdcard/screenshot.jpg',
 
+
         }
     }
 
@@ -47,10 +53,11 @@ export default class TicketScreen extends React.Component{
 
         const {navigate} = this.props.navigation;
         return(
-                    <ViewShot ref="viewShot" options={{ format: "jpg", quality: 0.9 }}>
-                             <ImageBackground style={{flex: 1}}
+            <ImageBackground style={{flex: 1}}
                                 source={tixImage}
-                                resizeMode="contain">
+                                resizeMode="contain"
+                                >
+                        <ViewShot ref="viewShot" options={{ format: "jpg", quality: 0.9 }}>
 
                         <Text style={styles.FromData}>{this.state.OriginName}({this.state.OriginID})</Text>
                         <Text style={styles.ToData}>{this.state.DestinationName}({this.state.DestinationID})</Text>
@@ -58,8 +65,8 @@ export default class TicketScreen extends React.Component{
                         {/* <Text style={styles.DateData}>{moment(this.state.FlightDate).format("MMMM DD")} </Text> */}
                         <Text style={styles.DateData}>{this.state.MonthSelected}  {this.state.DaySelected}</Text>
 
+                        </ViewShot>
                         </ImageBackground>
-                    </ViewShot>
 
 
 

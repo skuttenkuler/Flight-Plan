@@ -9,7 +9,28 @@ import TicketScreen from './src/screens/TicketScreen';
 const MainNav = createStackNavigator ({
   Home: {screen: HomeScreen},
   US: {screen: UsScreen},
-  Ticket: {screen: TicketScreen},
+  Ticket: {screen: TicketScreen,
+            navigationOptions: () => ({
+              gesturesEnabled: true,
+              swipeEnabled: true,
+              gestureResponseDistance: {
+                horizontal: 300,
+                vertical: 135,
+              }
+            })},
+
+},
+
+{
+  initialRouteName: "Home",
+  defaultNavigationOptions: {
+    gesturesEnabled: true,
+    swipeEnabled: true,
+    gestureResponseDistance: {
+      horizontal: 300,
+      vertical: 135,
+    },
+  }
 });
 
 const App = createAppContainer(MainNav);
