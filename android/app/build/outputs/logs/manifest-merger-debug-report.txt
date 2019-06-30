@@ -5,6 +5,7 @@ INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/Flight
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-store-photos-album] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-store-photos-album/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:appcenter-crashes] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-crashes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:appcenter-analytics] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:appcenter] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -147,6 +148,8 @@ uses-sdk
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-store-photos-album] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-store-photos-album/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-store-photos-album] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/react-native-store-photos-album/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:appcenter-crashes] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-crashes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:appcenter-crashes] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-crashes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:appcenter-analytics] /Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/node_modules/appcenter-analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41

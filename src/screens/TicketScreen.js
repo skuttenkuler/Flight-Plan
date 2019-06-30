@@ -1,9 +1,9 @@
-import React from 'react';
+import React, {Component} from 'react';
 import { Text,
          View, ImageBackground,
-         TouchableOpacity, CameraRoll, Dimensions, Button, StyleSheet
+         TouchableOpacity, CameraRoll, Dimensions, Button, StyleSheet, Platform
 } from 'react-native';
-import ViewShot from "react-native-view-shot";
+import { captureScreen } from "react-native-view-shot";
 import tixImage from '../images/stub.png';
 import moment from 'moment';
 
@@ -19,17 +19,7 @@ export default class TicketScreen extends React.Component{
         header: null,
 
     };
-    static saveToCameraRoll = {
-        tag: "file:///sdcard/screenshot.jpg",
-        type: 'photo'
-    };
-    componentDidMount () {
-        this.refs.viewShot.capture().then(uri => {
-            console.log("something happened")
-            CameraRoll.saveToCameraRoll(viewShot, ['photo']);
 
-        });
-      }
 
     constructor(props) {
         super(props);
@@ -42,11 +32,24 @@ export default class TicketScreen extends React.Component{
             MonthSelected:props.navigation.state.params.MonthSelected,
             DaySelected:props.navigation.state.params.DaySelected,
             FlightTime:props.navigation.state.params.FlightTime,
-            imageURI : 'file:///sdcard/screenshot.jpg',
+            imageURI : 'https://reactnativecode.com/wp-content/uploads/2018/02/ticket.jpg',
 
 
         }
     }
+
+    captureScreenFunction=()=>{
+
+            captureScreen({
+            format: "jpg",
+            quality: 0.8
+            })
+            .then(
+            uri => this.setState({ imageURI : uri }), console.log("something happened"),
+            error => console.error("Oops, Something Went Wrong", error)
+            );
+
+        }
 
 
     render() {
@@ -57,15 +60,15 @@ export default class TicketScreen extends React.Component{
                                 source={tixImage}
                                 resizeMode="contain"
                                 >
-                        <ViewShot ref="viewShot" options={{ format: "jpg", quality: 0.9 }}>
+                        {/* <ViewShot ref="viewShot" options={{ format: "jpg", quality: 0.9 }}> */}
 
                         <Text style={styles.FromData}>{this.state.OriginName}({this.state.OriginID})</Text>
                         <Text style={styles.ToData}>{this.state.DestinationName}({this.state.DestinationID})</Text>
                         <Text style={styles.TimeData}>{moment(this.state.FlightTime).format("h:mm A")}</Text>
                         {/* <Text style={styles.DateData}>{moment(this.state.FlightDate).format("MMMM DD")} </Text> */}
                         <Text style={styles.DateData}>{this.state.MonthSelected}  {this.state.DaySelected}</Text>
-
-                        </ViewShot>
+                        <Button title="Capture Device Screenshot" onPress={this.captureScreenFunction} />
+                        {/* </ViewShot> */}
                         </ImageBackground>
 
 

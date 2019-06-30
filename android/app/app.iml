@@ -182,6 +182,7 @@
     <orderEntry type="module" module-name="@react-native-community_cameraroll" />
     <orderEntry type="module" module-name="appcenter-crashes" />
     <orderEntry type="module" module-name="appcenter" />
+    <orderEntry type="module" module-name="react-native-store-photos-album" />
     <orderEntry type="module" module-name="appcenter-analytics" />
   </component>
 </module>

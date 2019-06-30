@@ -7,8 +7,8 @@ const { width: WIDTH } = Dimensions.get("window")
 import TicketScreen from"./TicketScreen";
 import DateTimePicker from "react-native-modal-datetime-picker";
 import { NavigationEvents } from 'react-navigation';
-import ViewShot from "react-native-view-shot";
 import moment from 'moment';
+
 
 
 let index = 0;
@@ -313,12 +313,6 @@ let index = 0;
                       };
 
     }
-
-      componentDidMount () {
-        this.refs.viewShot.capture().then(uri => {
-          console.log("do something with ", uri);
-        });
-      }
     handlePicker = time => {
       this.setState({ isVisible: false,
                       selectedDate: time.toString() });
@@ -412,6 +406,7 @@ let index = 0;
                     onDateChange={(date) => {this.setState({date: date})}}
                   /> */}
 
+
                 <TouchableOpacity style={styles.Selector}
                         title="Book"
                         onPress={(event) => navigate("Ticket", {screen: TicketScreen,
@@ -428,9 +423,7 @@ let index = 0;
                         }>
                         <Text style={styles.ButtonText}>Book Flight</Text>
                 </TouchableOpacity>
-                <ViewShot ref="viewShot" options={{ format: "jpg", quality: 0.9 }}>
-                  <Text>Save to Photos</Text>
-                </ViewShot>
+
             </View>
 
         );
