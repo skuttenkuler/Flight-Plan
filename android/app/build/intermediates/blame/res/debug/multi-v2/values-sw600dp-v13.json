@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/samkuttenkuler/Desktop/Dev/Projects/Flight-Plan/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/566b95101a8f1ac5e13a32ccc554efa2/res/values-sw600dp-v13/values-sw600dp-v13.xml",

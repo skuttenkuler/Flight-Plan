@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/samkuttenkuler/Desktop/Dev/Projects/Flight-Plan/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/3fa03b2df355350087fccf910e51abca/res/values/values.xml",
+                    "source": "/Users/samkuttenkuler/Desktop/Dev/Projects/Flight-Plan/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "177"
+                    },
+                    "to": {
+                        "startLines": "304",
+                        "startColumns": "4",
+                        "startOffsets": "21651",
+                        "endLines": "306",
+                        "endColumns": "12",
+                        "endOffsets": "21774"
+                    }
+                },
+                {
+                    "source": "/Users/samkuttenkuler/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/174a756b3f3fd47cc4e8bdf362b6531a/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,42,45,48,51,54,58,62,65,68,71,74,75,76,83,90,93,96,99,105",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -58,23 +77,6 @@
                         "endLines": "51,52,149,150,151,152,153,154,155,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,192,193,201,202,207,208,209,210,211,212,220,294,1648,1652,1654,1660,1662,1831,1832,2513,2699,2731,2824,2831",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "3465,3528,10210,10278,10350,10420,10481,10555,10628,11473,11534,11596,11660,11722,11783,11851,11951,12011,12077,12150,12219,12276,12328,12390,13127,13203,13573,13608,13843,13904,13961,13995,14030,14065,14512,20956,110971,111172,111348,111732,111927,124653,124720,161271,172421,174486,179745,180122"
-                    }
-                },
-                {
-                    "source": "/Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2,3,1",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "65,187,16",
-                        "endColumns": "121,115,48",
-                        "endOffsets": "182,298,60"
-                    },
-                    "to": {
-                        "startLines": "261,262,263",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17358,17480,17596",
-                        "endColumns": "121,115,48",
-                        "endOffsets": "17475,17591,17640"
                     }
                 },
                 {
@@ -133,22 +135,20 @@
                     }
                 },
                 {
-                    "source": "/Users/samkuttenkuler/Desktop/Dev/Projects/Current Projects/FlightPlan/flightplan/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/samkuttenkuler/Desktop/Dev/Projects/Flight-Plan/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "177"
+                        "startLines": "2,3,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "65,187,16",
+                        "endColumns": "121,115,48",
+                        "endOffsets": "182,298,60"
                     },
                     "to": {
-                        "startLines": "304",
-                        "startColumns": "4",
-                        "startOffsets": "21651",
-                        "endLines": "306",
-                        "endColumns": "12",
-                        "endOffsets": "21774"
+                        "startLines": "261,262,263",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17358,17480,17596",
+                        "endColumns": "121,115,48",
+                        "endOffsets": "17475,17591,17640"
                     }
                 }
             ]
