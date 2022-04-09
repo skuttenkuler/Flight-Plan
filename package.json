@@ -10,7 +10,7 @@
     "appcenter": "2.1.0",
     "appcenter-analytics": "2.1.0",
     "appcenter-crashes": "2.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-moment": "^0.9.2",
